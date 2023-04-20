@@ -5,3 +5,4 @@ My Assignments ->
 - week 3
 - week 5
 - week 6
+- week 7
